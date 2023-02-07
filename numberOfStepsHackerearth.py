@@ -1,0 +1,5 @@
+n = int(input())
+temp = input().split(" ")
+a = list(map(int,temp))
+temp = input().split(" ")
+b = list(map(int,temp))
